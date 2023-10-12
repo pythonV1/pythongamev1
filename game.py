@@ -1,9 +1,6 @@
 import random
 import tkinter as tk
 
-def hello_demo():
-    return "hello_demo"
-
 def hello_test():
     return "hello"
 
